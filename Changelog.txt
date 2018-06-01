@@ -1,0 +1,233 @@
+0.15.0
+	Adopted by LGG
+	Renamed directory to RLA_Reborn
+	Updated all files for new directory
+	Added Changelog,tried to capture all previous versions
+
+======================================================================================
+v0.14.0.1
+======================================================================================
+- Added version file
+- Added MiniAVC support
+
+======================================================================================
+v0.14.0
+======================================================================================
+- Merger Complete
+- GameData > RLA_Stockalike (folder structure change)
+- Added DrawGauges to ElectricCharge propellant on Electric engines
+- Switched around TET and IKOTET KerbNet access (thanks PocketBrotector, again)
+
+======================================================================================
+v0.1.1
+======================================================================================
+- Fixed DRAG_CUBE on stack decoupler
+- Rearranged some folders
+
+======================================================================================
+v0.1.0
+======================================================================================
+//--------------------Command--------------------//
+TET (Grey)
+- Updated tags
+- Added Hibernation
+- Added Kerbnet access (HECS level)
+- Added Data Transmitter
+
+TET (Gold)
+- Updated tags
+- Added Hibernation
+- Added Kerbnet access (OKTO2 level)
+- Added Data Transmitter
+
+HECS (Gold)
+- Updated tags
+- Added Hibernation
+- Added Kerbnet access (OKTO2 level)
+- Added Data Transmitter
+
+OKTO (Gold)
+- Updated tags
+- Added Hibernation
+- Added Kerbnet access (OKTO1 level)
+- Added Data Transmitter
+
+QBE (Gold)
+- Updated tags
+- Added Hibernation
+- Added Kerbnet access (QBE level)
+- Added Data Transmitter
+
+IKOTET (Grey)
+- Updated tags
+- Added Hibernation
+- Added Kerbnet access (Rover level)
+- Added Data Transmitter
+
+IKOTET (Gold)
+- Updated tags
+- Added Hibernation
+- Added Kerbnet access (Rover level)
+- Added Data Transmitter
+
+//--------------------Control--------------------//
+RCS (All)
+- Converted to new ModuleRCSFX
+- Added sound effects
+
+Reaction Wheel
+- Reduced ElectricCharge rate from 0.06 to 0.025
+
+//--------------------Electrical--------------------//
+Solar Panels
+- Changed category to Electrical
+- Updated ModuleDeployableSolarPanel fields
+
+RTG
+- Changed category to Electrical
+- Changed title to long form of RTG
+- Added radiatorMax = 1.5
+
+MonoProp FuelCell
+- Changed category to Electrical
+- Fixed tags
+- Added toggle to fuel cell
+
+//--------------------Engines--------------------//
+LV-Nc "Mighty" Atomic Rocket Motor
+- Reduced heatProduction from 275 to 250 (to be inline with stock)
+- Reduced LiquidFuel propellant ratio from 1.0 to 0.9 (to be inline with stock)
+- Added Alternator of 1.0 (stock Nerv has Alternator of 5.0)
+
+ET-3226 "Umbra" Arcjet Thruster
+- Added minResToLeave = 1.0 to engine (same as stock Ion engine)
+
+ET-2112 "Eclipse" Resistojet Thruster
+- Added minResToLeave = 1.0 to engine (same as stock Ion engine)
+
+IX-7212 "Sunrise" Electrostatic Propulsion System
+- Added minResToLeave = 1.0 to engine (same as stock Ion engine)
+
+SRE-D2 "Cutter" Linear Aerospike Engine
+- Reduced mass from 1.5 to 1.25
+- Increased crash tolerance from 6 to 12
+
+88-M6 "Spinnaker" Liquid Engine
+- Reduced thermalMassModifier from 6.0 to 3.0
+
+36-5D "Caravel" Annular Aerospike Engine
+- Increased crashTolerance from 4 to 8
+- Reduced thermalMassModifier from 4.0 to 2.0
+
+LV-0 "Aphid" Liquid Fuel Engine
+- Increased crashTolerance from 4 to 8
+- Changed heatConductivity to 0.06 (half default)
+
+TtKH-6B "Cormorant" MonoPropellant Engine
+- Increased crashTolerance from 4 to 7
+- Changed heatConductivity to 0.06 (half default)
+- Increased heatProduction from 20 to 50
+- Reduced MonoPropellant propellant ratio from 1.0 to 0.9 (to be inline with stock)
+
+TtK-6A "Albatross" MonoPropellant Engine
+- Increased crashTolerance from 4 to 7
+- Changed heatConductivity to 0.06 (half default)
+- Increased heatProduction from 20 to 35
+- Reduced MonoPropellant propellant ratio from 1.0 to 0.9 (to be inline with stock)
+
+MPR-50 "Nimbus" MonoPropellant Engine
+- Increased crashTolerance from 4 to 7
+- Changed heatConductivity to 0.06 (half default)
+- Reduced MonoPropellant propellant ratio from 1.0 to 0.9 (to be inline with stock)
+
+MPR-5R "Stratus" MonoPropellant Engine
+- Changed heatConductivity to 0.06 (half default)
+- Reduced heatProduction from 20 to 5
+- Reduced MonoPropellant propellant ratio from 1.0 to 0.9 (to be inline with stock)
+
+MPR-5 "Cirrus" Monopropellant Engine
+- Changed heatConductivity to 0.06 (half default)
+- Reduced heatProduction from 20 to 5
+- Reduced MonoPropellant propellant ratio from 1.0 to 0.9 (to be inline with stock)
+
+MPR-1R "Fog" MonoPropellant Engine
+- Changed heatConductivity to 0.06 (half default)
+- Reduced heatProduction from 20 to 5
+- Reduced MonoPropellant propellant ratio from 1.0 to 0.9 (to be inline with stock)
+
+MPR-1 "Mist" MonoPropellant Engine
+- Changed heatConductivity to 0.06 (half default)
+- Reduced heatProduction from 20 to 5
+- Reduced MonoPropellant propellant ratio from 1.0 to 0.9 (to be inline with stock)
+
+SMAC Payload Assist Motor
+- Reduced thermalMassModifier from 8 to 1
+- Changed heatConductivity to 0.06 (half default)
+- Changed emissiveConstant to 0.5
+- Reduced heatProduction from 800 to 545 (to be inline with stock)
+
+Boostertron I Solid Rocket Booster
+- Title changed to "Boostertron I Solid Fuel Booster" (to be inline with stock)
+- Increased maxTemp from 1800 to 2000
+- Changed heatConductivity to 0.06 (half default)
+- Changed emissiveConstant to 0.5
+- Fixed bulkheadProfiles
+
+Boostertron II Solid Rocket Booster
+- Title changed to "Boostertron II Solid Fuel Booster" (to be inline with stock)
+- Increased maxTemp from 1800 to 2000
+- Changed heatConductivity to 0.06 (half default)
+- Changed emissiveConstant to 0.5
+- Fixed bulkheadProfiles
+
+Boostertron III Solid Rocket Booster
+- Title changed to "Boostertron III Solid Fuel Booster" (to be inline with stock)
+- Increased maxTemp from 1800 to 2000
+- Changed heatConductivity to 0.06 (half default)
+- Changed emissiveConstant to 0.5
+- Fixed bulkheadProfiles
+
+//--------------------FuelTanks--------------------//
+LFO Tanks (0.625m)
+- No Changes
+
+MonoPropellant Tanks
+- Capitalized "P" in "MonoPropellant" in all tanks. No other changes.
+
+Xenon Tanks
+- No Changes
+
+//--------------------Structural--------------------//
+Construction Frames
+- Increased crashTolerance from 20 to 80 (to be inline with stock)
+- Fixed tags
+
+Adapters
+- Converted from "module = Strut" to "module = Part"
+- Fixed tags
+
+Radial Extenders
+- Converted from "module = Strut" to "module = Part"
+
+Radial Attachment Point
+- Added "fuelCrossFeed = True"
+
+Decoupler (Radial)
+- Decreased entryCost from 1000 to 750
+- Decreased cost from 475 to 250
+- Changed category to Coupling
+- Decreased mass from 0.025 to 0.00625
+- Increased decouple force from 35 to 50
+- CrossFeedToggle now available in flight (same as stock)
+- CrossFeedToggle now requires tech "fuelSystems" (same as stock)
+
+Decoupler (Stack)
+- Decreased entryCost from 5200 to 800
+- Decreased cost from 150 to 300
+- Changed category to Coupling
+- Increased decouple force from 15 to 25
+- Added ModuleToggleCrossFeed
+
+//--------------------Extras--------------------//
+- Added file "RLA_StockTweaks.cfg" which capitalizes the "P" in MonoPropellant in the two stock Stratus-V fuel tanks. Can be deleted if so desired.
+- Cleaned up the FilterExtensions patch slightly.

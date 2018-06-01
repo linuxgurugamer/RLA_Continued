@@ -1,0 +1,7 @@
+hoojiwana = created RLA_Stockalike
+
+Deimos Rast = created the RLA_Continued patches and subsequently merged them into RLA_Stockalike proper.
+
+PocketBrotector = contributed intermediate patches
+
+and many others who have helped in the past.

@@ -1,0 +1,18 @@
+Test Solar Panels
+
+update author
+
+
+Update Credits
+
+
+
+
+
+
+
+
+=====================OLD=========================
+Probe cost balance (ikotet gold, hecs gold)
+resistojet sound (on/off), thrust
+sunrise sound (on/off), thrust
