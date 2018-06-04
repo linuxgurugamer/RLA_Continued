@@ -1,3 +1,6 @@
+0.15.1
+	Balance fix for Xenon tank and localization
+	
 0.15.0
 	Adopted by LGG
 	Renamed directory to RLA_Reborn
