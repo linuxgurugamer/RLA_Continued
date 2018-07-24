@@ -1,3 +1,6 @@
+0.15.1.1
+	Fixed Agent (was missing title)
+
 0.15.1
 	Balance fix for Xenon tank and localization
 	
