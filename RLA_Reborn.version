@@ -1,6 +1,6 @@
 {
   "NAME": "RLA_Reborn",
-  "URL": "https://raw.githubusercontent.com/linuxgurugamer/RLA_Reborn/master/RLA_Reborn.version",
+  "URL": "http://ksp.spacetux.net/avc/RLA_Reborn",
   "DOWNLOAD": "http://spacedock.info/mod/1071/RLA_Reborn",
   "CHANGE_LOG_URL": "https://github.com/linuxgurugamer/RLA_Reborn/blob/master/GameData/RLA_Reborn/Changelog.txt",
   "VERSION":
@@ -8,7 +8,7 @@
     "MAJOR": 0,
     "MINOR": 15,
     "PATCH": 1,
-    "BUILD": 3
+    "BUILD": 4
   },
   "KSP_VERSION":
   {
@@ -25,7 +25,7 @@
   "KSP_VERSION_MAX":
   {
     "MAJOR": 1,
-    "MINOR": 4,
+    "MINOR": 5,
     "PATCH": 99
   }
 }
