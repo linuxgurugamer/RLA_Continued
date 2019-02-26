@@ -1,3 +1,7 @@
+0.15.1.6
+    Updated the patch to a localization file (and added MH)
+    Hid the small decoupler, very similiar to * ksp1.4 small decoupler (0.6m
+    
 0.15.1.4
 	Version bump for 1.5
 	
