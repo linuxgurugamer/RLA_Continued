@@ -1,3 +1,7 @@
+0.15.1.7
+    Fixed typo in category for small decoupler, "none" needed to be in lower case
+	Added indentations to a number of parts
+    
 0.15.1.6
     Updated the patch to a localization file (and added MH)
     Hid the small decoupler, very similiar to * ksp1.4 small decoupler (0.6m
