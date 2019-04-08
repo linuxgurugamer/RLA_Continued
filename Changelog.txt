@@ -1,3 +1,7 @@
+0.15.1.8
+	Added small patch for Restock, thanks @pietralbi
+	Deleted old file
+
 0.15.1.7
     Fixed typo in category for small decoupler, "none" needed to be in lower case
 	Added indentations to a number of parts
