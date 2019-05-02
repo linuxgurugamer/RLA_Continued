@@ -1,3 +1,6 @@
+0.15.1.9
+	Changed category from "none" to "Coupling" in the small_decoupler_stack
+
 0.15.1.8
 	Added small patch for Restock, thanks @pietralbi
 	Deleted old file
