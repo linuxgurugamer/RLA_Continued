@@ -1,6 +1,6 @@
 0.15.1.10
 	Added "TechHidden = True" and "entryCost = 0" to RLA_solid_small_long in
-	the RLA patch
+	the ReStockPlus  patch
 
 0.15.1.9
 	Changed category from "none" to "Coupling" in the small_decoupler_stack
