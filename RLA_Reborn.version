@@ -6,12 +6,18 @@
   "VERSION": {
     "MAJOR": 0,
     "MINOR": 15,
-    "PATCH": 1,
-    "BUILD": 10
+    "PATCH": 2,
+    "BUILD": 0
   },
   "KSP_VERSION_MIN": {
     "MAJOR": 1,
-    "MINOR": 2,
+    "MINOR": 8,
     "PATCH": 0
+  },
+  "INSTALL_LOC_1": {
+    "NAME": "RLA_Reborn",
+    "PATH": "",
+    "DIRECTORY": "RLA_Reborn",
+    "FILE": "RLA_Reborn.version"
   }
 }

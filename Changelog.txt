@@ -1,3 +1,8 @@
+ChangeLog
+
+0.15.2
+	Updated for KSP 1.8
+
 0.15.1.10
 	Added "TechHidden = True" and "entryCost = 0" to RLA_solid_small_long in
 	the ReStockPlus  patch
